@@ -1,4 +1,4 @@
-// default price part 
+// default price par
 function defaultcost(Button, input) {
     document.getElementById(Button).addEventListener('click', function () {
         const Cost = document.getElementById(input);
